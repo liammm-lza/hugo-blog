@@ -1,7 +1,7 @@
 ---
-title: Liammm (刘子奥)
-role: 软件工程师
-avatar_filename: img_1462.jpg
+title: Liam's Secret lab
+role: Welcome
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
@@ -14,11 +14,9 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
-organizations:
-  - name: 腾讯
-    url: ""
+
 superuser: true
 status:
   icon: ☕️
 ---
-TBD
+

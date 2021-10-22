@@ -8,5 +8,5 @@ social:
     icon_pack: fab
     link: about/#contact
     icon: envelope
-superuser: false
+superuser: true
 ---

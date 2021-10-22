@@ -1,5 +1,5 @@
 ---
-title: Liam's Secret lab
+title: Liam's Secret Lab
 role: Welcome
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and

@@ -8,7 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-author: admin
+# author: Welcome to LZA's secret Lab (LSL)
 
 #design:
 #  background:

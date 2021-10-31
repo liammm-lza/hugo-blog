@@ -29,8 +29,7 @@ image:
   preview_only: false
 
 authors:
-- admin
-- 美杨
+- lza
 
 tags:
 - Academic

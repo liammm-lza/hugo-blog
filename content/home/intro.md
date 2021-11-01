@@ -15,7 +15,7 @@ subtitle: Our Moments
 
 view: 2
 design:
-  columns: '3'
+  columns: '2'
 
 design:
   background:

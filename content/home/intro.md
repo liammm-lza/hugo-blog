@@ -11,7 +11,7 @@ headless: true
 weight: 66
 
 title: Gallery
-subtitle: Our Moments
+subtitle:Moments
 
 view: 2
 design:
